@@ -10,4 +10,5 @@ Output: list of all unique symbols from the text with their probabilities.
 Example:
 
 A – 0,014
+
 B – 0,012
